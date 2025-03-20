@@ -21,6 +21,6 @@ I develop AI solutions with a focus on neural networks and computer vision. My t
 
 ### 📫 How to reach me
 - Email: alexproc51@ya.ru
-- Telegram: t.me/it_heroic
+- Telegram: ![t.me/it_heroic](t.me/it_heroic)
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=AlexTako.AlexTako)
