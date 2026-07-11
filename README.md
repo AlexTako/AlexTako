@@ -5,8 +5,8 @@
 ### Превращаю разрозненные сервисы в работающие бизнес‑системы
 
 [![BizTuner](https://img.shields.io/badge/BizTuner-biztuner.ru-22c55e?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://biztuner.ru)
-[![Telegram](https://img.shields.io/badge/Telegram-@it__heroic-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/it_heroic)
-[![Email](https://img.shields.io/badge/Email-alexdevop%40ya.ru-111827?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:alexdevop@ya.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-@biztuner__it-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/biztuner_it)
+[![Email](https://img.shields.io/badge/Email-alexproc%40biztuner.ru-111827?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:alexproc@biztuner.ru)
 
 </div>
 
@@ -67,7 +67,7 @@
 
 **Есть процесс, который держится на копировании руками? Скорее всего, его можно автоматизировать.**
 
-[Обсудить задачу](https://biztuner.ru/#contact) · [Посмотреть услуги](https://biztuner.ru/#services) · [Написать в Telegram](https://t.me/it_heroic)
+[Обсудить задачу](https://biztuner.ru/#contact) · [Посмотреть услуги](https://biztuner.ru/#services) · [Написать в Telegram](https://t.me/biztuner_it)
 
 <sub>RU · Open to practical collaborations and useful products</sub>
 
