@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:07111f,45:0f766e,100:22c55e&text=Alexander%20Protsenko&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Business%20automation%20%E2%80%A2%20AI%20agents%20%E2%80%A2%20E-commerce&descAlignY=56&animation=fadeIn" width="100%" alt="Alexander Protsenko — Business automation, AI agents, E-commerce" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:07111f,45:0f766e,100:22c55e&text=Alexander%20Protsenko&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=BizTuner%20%E2%80%A2%20AI%20agents%20%E2%80%A2%20CRM%20automation&descAlignY=56&animation=fadeIn" width="100%" alt="Alexander Protsenko — BizTuner, AI agents, CRM automation" />
 
-### Превращаю разрозненные сервисы в работающие бизнес‑системы
+### Помогаю бизнесу находить, где теряются заявки, время и деньги — и закрывать это автоматизацией
 
 [![BizTuner](https://img.shields.io/badge/BizTuner-biztuner.ru-22c55e?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://biztuner.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-@biztuner__it-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/biztuner_it)
@@ -12,31 +12,45 @@
 
 ## Привет! 👋
 
-Я **Александр**, основатель **[BizTuner](https://biztuner.ru)** из Мурманской области. Проектирую и внедряю практичные IT‑решения для малого и среднего бизнеса: без лишней сложности, зато с понятным результатом.
+Я **Александр**, основатель **[BizTuner](https://biztuner.ru)** из Мурманской области. Проектирую и внедряю практичные IT‑решения для малого и среднего бизнеса: CRM, интеграции, AI‑ассистентов, автоматизацию заявок и внутренних процессов.
+
+Мой основной фокус сейчас — не «AI ради AI», а понятный бизнес‑результат:
 
 ```text
-Заявка → CRM → заказ → склад → маркетплейсы → аналитика
-              ↘ AI берёт рутину на себя ↗
+заявки не теряются → менеджеры меньше копируют руками → руководитель видит процесс → клиент быстрее получает ответ
 ```
 
-- 🤖 Создаю AI‑ассистентов и LLM‑интеграции
-- 🔄 Автоматизирую продажи и процессы в **Bitrix24 / amoCRM**
-- 🛒 Связываю интернет‑магазины с **Ozon, Wildberries, 1С и Albato**
-- 🧩 Собираю решения, которые можно поддерживать и развивать
-- 🌍 Работаю удалённо с проектами по всей России
+## Что делаю
 
-## Сейчас в фокусе
+- 🔍 **Аудит потерь заявок и ручной работы** — быстро нахожу, где обращения застревают между сайтом, мессенджерами, CRM, таблицами и менеджерами.
+- 🤖 **AI‑ассистенты и AI‑агенты** — квалификация лидов, ответы по базе знаний, поддержка менеджеров, обработка типовых запросов.
+- 🔄 **CRM и продажи** — Bitrix24, amoCRM, воронки, статусы, уведомления, follow‑up и контроль обработки заявок.
+- 🛒 **E‑commerce и маркетплейсы** — интеграции интернет‑магазинов с Ozon, Wildberries, 1С, Albato и внутренними системами.
+- 🧩 **Интеграции без лишней сложности** — формы, сайты, Telegram/Max/WhatsApp, почта, таблицы, API, webhooks и no‑code/low‑code связки.
+- 📊 **Понятная аналитика** — чтобы было видно, откуда пришла заявка, кто её обработал и где процесс проседает.
 
-- **AI‑агенты для бизнеса** — поддержка, квалификация заявок, работа с базой знаний
-- **E‑commerce интеграции** — единый контур заказов, остатков и клиентов
-- **Голосовые интерфейсы** — превращение речи и встреч в структурированные задачи
-- **Прикладная автоматизация** — меньше ручного копирования, таблиц и потерянных обращений
+## Первый шаг для клиента
 
-## Избранные проекты
+Чаще всего я начинаю не с большого проекта, а с короткого разбора:
+
+> **Экспресс‑аудит: где бизнес теряет заявки, время сотрудников и деньги.**
+
+После него можно выбрать маленькое первое внедрение: например, связать сайт с CRM, настроить уведомления менеджерам, автоматизировать повторные вопросы или собрать MVP AI‑ассистента.
+
+## Направления BizTuner
+
+- **Лиды и заявки:** сайт → CRM → мессенджер → менеджер → follow‑up.
+- **AI Sales / AI Support:** агент помогает квалифицировать клиента, отвечать на типовые вопросы и доводить до следующего шага.
+- **База знаний и регламенты:** AI‑ассистент отвечает сотрудникам по внутренним инструкциям и помогает поддерживать знания в порядке.
+- **Маркетплейсы и склад:** заказы, остатки, документы, уведомления и отчёты без ручного копирования.
+- **Операционная автоматизация:** таблицы, почта, задачи, документы, API и повторяющиеся процессы.
+
+## Избранные проекты и эксперименты
 
 - 🎙️ **[voice-assist](https://github.com/AlexTako/voice-assist)** — голос и текст превращаются в задачи, встречи, заметки и контакты.
-- 🧠 **[ai_staff](https://github.com/AlexTako/ai_staff)** — прототип гибко настраиваемого нейросотрудника.
+- 🧠 **[ai_staff](https://github.com/AlexTako/ai_staff)** — прототип настраиваемого AI‑сотрудника под бизнес‑процессы.
 - 🧪 **[AI_practice](https://github.com/AlexTako/AI_practice)** — эксперименты и практика в области искусственного интеллекта.
+- 🌐 **[BizTuner](https://biztuner.ru)** — основная витрина услуг по AI, CRM, интеграциям и автоматизации малого бизнеса.
 
 ## Инструменты
 
@@ -49,7 +63,9 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=60A5FA)
 ![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED)
 ![Bitrix24](https://img.shields.io/badge/Bitrix24-111827?style=flat-square&logo=bitrix24&logoColor=2FC6F6)
+![amoCRM](https://img.shields.io/badge/amoCRM-111827?style=flat-square&logo=crm&logoColor=34D399)
 ![AI](https://img.shields.io/badge/LLM_&_AI_agents-111827?style=flat-square&logo=openai&logoColor=34D399)
+![Albato](https://img.shields.io/badge/Albato-111827?style=flat-square&logo=zapier&logoColor=F59E0B)
 
 </div>
 
@@ -67,8 +83,8 @@
 
 **Есть процесс, который держится на копировании руками? Скорее всего, его можно автоматизировать.**
 
-[Обсудить задачу](https://biztuner.ru/#contact) · [Посмотреть услуги](https://biztuner.ru/#services) · [Написать в Telegram](https://t.me/biztuner_it)
+[Получить экспресс‑разбор](https://biztuner.ru/#contact) · [Посмотреть услуги](https://biztuner.ru/#services) · [Написать в Telegram](https://t.me/biztuner_it)
 
-<sub>RU · Open to practical collaborations and useful products</sub>
+<sub>RU · AI agents · CRM integrations · practical business automation</sub>
 
 </div>
